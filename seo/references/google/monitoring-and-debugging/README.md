@@ -1,0 +1,21 @@
+# Monitoring and debugging
+
+- [Debug drops in Search traffic](./debug-drops-in-search-traffic.md)
+- **Monitor with Search Console**
+  - [Get started with Search Console](./monitor-with-search-console/get-started-with-search-console.md)
+  - [Improve SEO with a bubble chart](./monitor-with-search-console/improve-seo-with-a-bubble-chart.md)
+  - [Using Search Console and Google Analytics data for SEO](./monitor-with-search-console/using-search-console-and-google-analytics-data-for-seo.md)
+  - [Analyze social and video platform content](./monitor-with-search-console/analyze-social-and-video-platform-content.md)
+- [Identify traffic from Google Search in web analytics](./identify-traffic-from-google-search-in-web-analytics.md)
+- **Debug with search operators**
+  - [Overview](./debug-with-search-operators/overview.md)
+  - [site: search operator](./debug-with-search-operators/site-search-operator.md)
+  - [Google Images search operators](./debug-with-search-operators/google-images-search-operators.md)
+- **Preventing and monitoring abuse**
+  - [Overview](./preventing-and-monitoring-abuse/overview.md)
+  - [Prevent user-generated spam](./preventing-and-monitoring-abuse/prevent-user-generated-spam.md)
+  - [Malware and unwanted software](./preventing-and-monitoring-abuse/malware-and-unwanted-software.md)
+  - [Prevent a malware infection](./preventing-and-monitoring-abuse/prevent-a-malware-infection.md)
+  - [Social engineering (phishing and deceptive sites)](./preventing-and-monitoring-abuse/social-engineering-phishing-and-deceptive-sites.md)
+  - [Google Safe Browsing Repeat Offenders Policy](./preventing-and-monitoring-abuse/google-safe-browsing-repeat-offenders-policy.md)
+- [Get started with Google Trends](./get-started-with-google-trends.md)

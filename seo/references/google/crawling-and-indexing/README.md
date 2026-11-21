@@ -1,0 +1,60 @@
+# Crawling and indexing
+
+- [Overview](./overview.md)
+- [File types Google can index](./file-types-google-can-index.md)
+- [URL structure](./url-structure.md)
+- [Links](./links.md)
+- **Sitemaps**
+  - [Learn about sitemaps](./sitemaps/learn-about-sitemaps.md)
+  - [Build and submit a sitemap](./sitemaps/build-and-submit-a-sitemap.md)
+  - [Manage sitemaps with sitemap index file](./sitemaps/manage-sitemaps-with-sitemap-index-file.md)
+  - **Sitemap extensions**
+    - [Image sitemaps](./sitemaps/sitemap-extensions/image-sitemaps.md)
+    - [News sitemaps](./sitemaps/sitemap-extensions/news-sitemaps.md)
+    - [Video sitemaps and alternatives](./sitemaps/sitemap-extensions/video-sitemaps-and-alternatives.md)
+    - [Combining sitemap extensions](./sitemaps/sitemap-extensions/combining-sitemap-extensions.md)
+- **Crawler management**
+  - [Ask Google to recrawl your URLs](./crawler-management/ask-google-to-recrawl-your-urls.md)
+  - [Troubleshoot crawl errors](./crawler-management/troubleshoot-crawl-errors.md)
+  - **Google crawlers**
+    - [List of Google crawlers](./crawler-management/google-crawlers/list-of-google-crawlers.md)
+    - [Googlebot](./crawler-management/google-crawlers/googlebot.md)
+    - [Reduce the Google crawl rate](./crawler-management/google-crawlers/reduce-the-google-crawl-rate.md)
+    - [Verifying Googlebot and other Google crawlers](./crawler-management/google-crawlers/verifying-googlebot-and-other-google-crawlers.md)
+- **robots.txt**
+  - [Introduction to robots.txt](./robots-txt/introduction-to-robots-txt.md)
+  - [How Google interprets the robots.txt specification](./robots-txt/how-google-interprets-the-robots-txt-specification.md)
+- **Canonicalization**
+  - [What is URL canonicalization](./canonicalization/what-is-url-canonicalization.md)
+  - [How to specify a canonical URL with rel="canonical" and other methods](./canonicalization/how-to-specify-a-canonical-url-with-rel-canonical-and-other-methods.md)
+  - [Fix canonicalization issues](./canonicalization/fix-canonicalization-issues.md)
+- [Mobile site and mobile-first indexing](./mobile-site-and-mobile-first-indexing.md)
+- **AMP**
+  - [About AMP on Google Search](./amp/about-amp-on-google-search.md)
+  - [Enhance AMP content](./amp/enhance-amp-content.md)
+  - [Validate AMP content](./amp/validate-amp-content.md)
+  - [Remove AMP content](./amp/remove-amp-content.md)
+- **JavaScript**
+  - [Understand the JavaScript SEO basics](./javascript/understand-the-javascript-seo-basics.md)
+  - [Fix search-related JavaScript problems](./javascript/fix-search-related-javascript-problems.md)
+  - [Fix lazy-loaded content](./javascript/fix-lazy-loaded-content.md)
+  - [Dynamic rendering as a workaround](./javascript/dynamic-rendering-as-a-workaround.md)
+- **Page and content metadata**
+  - [Page metadata](./page-and-content-metadata/page-metadata.md)
+  - **Meta tags**
+    - [Meta tags and HTML attributes that Google supports](./page-and-content-metadata/meta-tags/meta-tags-and-html-attributes-that-google-supports.md)
+    - [Robots meta tag, data-nosnippet, and X-Robots-Tag](./page-and-content-metadata/meta-tags/robots-meta-tag-data-nosnippet-and-x-robots-tag.md)
+    - [noindex](./page-and-content-metadata/meta-tags/noindex.md)
+  - [rel attributes](./page-and-content-metadata/rel-attributes.md)
+- **Removals**
+  - [Control what you share with Google](./removals/control-what-you-share-with-google.md)
+  - [Page removals](./removals/page-removals.md)
+  - [Image removals](./removals/image-removals.md)
+  - [Redacted information](./removals/redacted-information.md)
+- **Site moves and changes**
+  - [Redirects and Google Search](./site-moves-and-changes/redirects-and-google-search.md)
+  - **Site moves**
+    - [Changing your hosting](./site-moves-and-changes/site-moves/changing-your-hosting.md)
+    - [Move a site with URL changes](./site-moves-and-changes/site-moves/move-a-site-with-url-changes.md)
+  - [A/B testing](./site-moves-and-changes/a-b-testing.md)
+  - [Temporarily pause or disable a website](./site-moves-and-changes/temporarily-pause-or-disable-a-website.md)

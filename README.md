@@ -9,4 +9,4 @@
 | [google-adsense](./google-adsense/SKILL.md)           | Google AdSense 디스플레이 광고 코드 생성 및 수정 참고 자료입니다. 반응형 광고, 화면 크기별 CSS 설정, 고정 크기 제약 등을 다룹니다. | “화면 너비에 따라 크기가 바뀌는 AdSense 광고 코드를 작성해줘.” |
 | [github-push-changes](./github-push-changes/SKILL.md) | GitHub 푸시 요청 시 변경사항 검토, 검증, 커밋, 푸시와 원격 동기화 확인을 수행합니다.                                               | “현재 변경사항을 검증하고 GitHub에 푸시해줘.”                  |
 | [playwright-cli](./playwright-cli/SKILL.md)           | Playwright CLI로 브라우저를 조작하고 웹페이지와 테스트를 확인합니다. 세션, 요청 모킹, 트레이스, 영상 등의 참고 문서를 포함합니다.  | “로그인 화면을 브라우저에서 확인하고 동작을 테스트해줘.”       |
-| [seo](./seo/SKILL.md) | **Unofficial reference** for auditing crawling, indexing, and search visibility using Naver and Google documentation.<br>Naver · <https://searchadvisor.naver.com/guide><br>Google · <https://developers.google.com/search/docs> | “Check whether Naver can crawl our SPA.” |
+| [seo](./seo/SKILL.md) | 네이버와 Google의 공식 문서를 바탕으로 웹사이트의 크롤링, 색인, 검색 노출을 점검하는 **비공식 참고 자료**입니다.<br>네이버 원문 · <https://searchadvisor.naver.com/guide><br>Google 원문 · <https://developers.google.com/search/docs> | “Check whether Naver can crawl our SPA.” |

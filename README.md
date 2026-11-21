@@ -7,7 +7,7 @@
 스킬을 설치할 프로젝트에서 AI 에이전트를 여세요. 아래 문구를 복사한 뒤 `{스킬명}`을 [스킬 목록](#스킬-목록)에 있는 이름(예: `seo`)으로 바꿔 에이전트에게 보내세요.
 
 ```text
-https://github.com/jihyukboin/agent-skills 의 {스킬명}을 이 프로젝트 루트에 세팅해줘.
+https://github.com/jihyukboin/agent-skills/tree/main/{스킬명} 폴더 전체를 현재 프로젝트의 .agents/skills/{스킬명}/에 설치해줘.
 ```
 
 ## 스킬 목록
